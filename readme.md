@@ -1,7 +1,9 @@
 #
 # :pushpin: Links Page
 
-Hello! This project is a simple  **Links Page** and was carried out during Bruno Cupertino live on youtube in order to learn basic **HTML** and **CSS** functions. With this project I also learned how to create commits to **GIT** and how to edit and create a good **README**.
+Hello! Diego here,
+
+This project is a simple  **Links Page** and was carried out during Bruno Cupertino live on youtube in order to learn basic **HTML** and **CSS** functions. With this project I also learned how to create commits to **GIT** and how to edit and create a good **README**.
 
 To see the project [click here](https://diegofischerdev.github.io/linkspage/).
 
